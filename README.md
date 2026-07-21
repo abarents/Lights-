@@ -31,3 +31,4 @@ WledDnrgbSender: UDP real-time sender that automatically splits large LED strips
 WledStateFetcher & WledConnectionTester: Background threads for fetching the current status and testing the network connection.
 
 All is still very basic but in a working state..
+The interface is mostly in Dutch, will change that later...
