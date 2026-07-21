@@ -1,6 +1,6 @@
 WLED JUCE Controller as a VST3 plugin for a DAW (such as Cubase)
 
-A C++ / JUCE application to control WLED LED controllers. This software can communicate with WLED devices via both HTTP JSON requests and the real-time UDP DNRGB/DNRGBW protocol.
+A C++ / JUCE application to control WLED LED controllers. This software can communicate with WLED devices (https://kno.wled.ge/) via both HTTP JSON requests and the real-time UDP DNRGB/DNRGBW protocol.
 
 Features
 Various working modes:
