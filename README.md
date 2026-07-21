@@ -1,4 +1,4 @@
-# WLED JUCE Controller
+# WLED JUCE Controller als VST3 plugin voor een DAW (zoals Cubase)
 
 Een C++ / JUCE-applicatie om WLED LED-controllers aan te sturen. Deze software kan zowel via HTTP JSON-requests als via het realtime UDP DNRGB/DNRGBW-protocol communiceren met WLED-apparaten.
 
